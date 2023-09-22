@@ -1,0 +1,6 @@
+package com.example.bottomsheet_animation
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
